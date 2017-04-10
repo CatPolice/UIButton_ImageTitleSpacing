@@ -12,7 +12,9 @@
 - UIButtom
 
 ```
+    //img在上，titleLabel在下
     [self.topOutlet setButtonEdgeInsetsStyle:ButtonEdgeInsetsStyleTop withImageTitleSpace:10.];
 ```    
+- 详情可参见Demo
 
 
